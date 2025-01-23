@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm İlker</h1>
-<h3 align="center">A student from Turkey</h3>
+<h3 align="center">A Software Testing and Automation Specialist from Turkey</h3>
 
-- 🔭 I’m currently working on [Airlines](https://github.com/ilkeresen/airlines)
+- 🔭 I’m currently working on Turkcell Tv+ Mobile
 
-- 🌱 I’m currently learning **DOT.NET**
+- 🌱 I’m currently learning **Java, Selenium, Appium, Maven, TestNG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilkeresen](https://github.com/ilkeresen)
 
-- 💬 Ask me about **ASP.NET Core Mvc**
+- 💬 Ask me about **Java, Selenium**
 
 - 📫 How to reach me **lgo.ilker.esen@hotmail.com**
 
